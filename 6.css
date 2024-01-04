@@ -1,0 +1,31 @@
+h1{
+    background-color: black;
+    color:yellow;
+    text-align: center;
+    font-size: 46px;
+}
+img{
+    margin-left: 330px;
+    width: 400px;
+    height: 400px;
+}
+h2{
+    color:green;
+    text-align: center;
+    font-size: 36px;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color:blue;
+}
+h3{
+    color:red;
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+}

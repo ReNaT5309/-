@@ -1,0 +1,35 @@
+h1{
+    color:red;
+    text-align: center;
+    font-size: 35px;
+}
+img{
+    height: 400px;
+    width: 500px;
+    margin-left: 236px;
+}
+nav a{
+     font-size: 35px;
+     text-decoration: none;
+     color: black;
+     background-color: lightblue;
+     text-align: center;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+}
+nav a:hover{
+    color: yellow;
+}
+nav a:focus{
+    font-size: 25px;
+    transition: 0.2s; 
+}
+nav{
+    text-align: center;
+}
+.img1{
+    margin-left: 232px;
+}

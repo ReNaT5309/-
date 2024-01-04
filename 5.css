@@ -1,0 +1,21 @@
+header h1{
+    background-color: rgb(32, 129, 178);
+    color: red;
+    text-align: center;
+    font-size: 35px;
+}
+img{
+    margin-left: 370px;
+    width: 245px;
+    height: 245px;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+}
