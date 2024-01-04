@@ -7,6 +7,7 @@ header{
 img{
     height: 600px;
     width: 1000px;
+    margin-left:30px
 }
 a{
     text-decoration: none;
