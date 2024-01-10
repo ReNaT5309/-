@@ -16,7 +16,7 @@ header{
 .text1{
     font-size: 40px;
     color: #00FF94;
-    margin-left: 350px;
+    margin-left: 502px;
     margin-top: 60px;
 }
 
@@ -27,14 +27,14 @@ header{
 .text2{
     font-size: 40px;
     color: #00FF94;
-    margin-left: 10px;
-    margin-top: 73px;
+    margin-left: 138px;
+    margin-top: 83px;
 }
 
 .right{
     font-size: 15px;
     float: right;
-    margin-left:270px;
+    margin-left:500px;
    color: #FF0000;
    width: 150px;
    height: 150px;
@@ -42,7 +42,7 @@ header{
 }
 .left{
     color: #FF0000;
-    margin-left: 50px;
+    margin-left: 200px;
     width: 150px;
     height: 150px;
 }
@@ -59,6 +59,7 @@ div p{
     text-align: center;
     font-size: 34px;
     color: blue;
+    margin-top: 70px;
 }
 footer{
     background: #BDFF00;
